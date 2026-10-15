@@ -70,7 +70,7 @@ Under this protocol, GenMusic must not be used for training, fine-tuning, thresh
 
 ## Download
 
-**Download link:** To be added.
+**Download:** [GenMusic Dataset v1 (Quark Cloud)](https://pan.quark.cn/s/f4fb2d316d90?pwd=kuXe)
 
 Archive filename:
 
